@@ -9,3 +9,7 @@ INSURANCE ENDORSEMENT APPLICATION
       One time user login.
       Faster processing.
 
+MODULE SPLIT-UP
+     1.UI design,coding- JeniferNancy.S
+     2.FireBase connection and User Authentication- Kavithanjali.V
+     3.UI coding,design- Apurvaa.S
