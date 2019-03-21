@@ -6,11 +6,13 @@ INSURANCE ENDORSEMENT APPLICATION
       users to manage their policy on-the-go without spending separate time for optimizing the policy contents.
       
   ADVANTAGES
+  
       The system is planned to be built using Android App Technology with kotlin and firebase as database. 
       One time user login.
       Faster processing.
 
  MODULE SPLIT-UP
+ 
      1.UI design,coding- JeniferNancy.S
      2.FireBase connection and User Authentication- Kavithanjali.V
      3.UI coding,design- Apurvaa.S
