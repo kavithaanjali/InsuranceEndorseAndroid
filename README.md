@@ -14,5 +14,8 @@ INSURANCE ENDORSEMENT APPLICATION
  MODULE SPLIT-UP
  
      1.UI design,coding- JeniferNancy.S
+       Designing the login,endorsement and pdf generation page in xml and coding for the project
      2.FireBase connection and User Authentication- Kavithanjali.V
+       Connecting the firebase to the application and creating the database
      3.UI coding,design- Apurvaa.S
+        Designing the policy selection,policy search,payment page in xml and coding for the project
